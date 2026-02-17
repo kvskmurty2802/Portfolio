@@ -3,7 +3,7 @@ import project2 from "../assets/projects/P2.png";
 import project3 from "../assets/projects/P3.png";
 import project4 from "../assets/projects/P4.png";
 
-export const HERO_CONTENT = `Versatile Full-Stack Developer with 3+ years of experience building scalable web applications. Expertise in
+export const HERO_CONTENT = `Full-Stack Developer experienced in building scalable web applications. Expertise in
  React.js, Node.js, and MongoDB with a strong focus on designing user-centric interfaces and reliable backend
  solutions. Skilled in e-commerce systems, API integration, and cloud deployment. Dedicated to optimizing per
 formance and delivering impactful, efficient software solutions.`;
@@ -35,22 +35,6 @@ export const PROJECTS = [
     technologies: ["React", "Node.js", "Bootstrap"],
     demo: "https://portfolio-page-nu-two.vercel.app/",
     github: "https://github.com/kvskmurty2802/Portfolio_Page",
-  },
-  {
-    title: "E-Commerce Website",
-    image: project2,
-    description:
-      "A fully functional e-commerce website with product listing, shopping cart, and user authentication.",
-    technologies: [
-      "React",
-      "Node.js",
-      "MongoDB",
-      "Cloudinary",
-      "Stripe",
-      "RazorPay",
-    ],
-    demo: "https://ecommerce-website-sand-ten.vercel.app/",
-    github: "https://github.com/kvskmurty2802/UrbanEdge-Ecommerce",
   },
   {
     title: "Netflix Clone",
